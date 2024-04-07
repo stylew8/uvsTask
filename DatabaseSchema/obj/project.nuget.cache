@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G4ZWVtT+F+C/GSRADRQ17BN9bVFSIockqNFiRrR85EqoTLE++R0/My0s+ud+YDDjeBmd/siKKx7xoAccL42UKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vania\\Desktop\\Test\\DatabaseSchema\\DatabaseSchema.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vania\\.nuget\\packages\\npgsql\\6.0.0\\npgsql.6.0.0.nupkg.sha512",
+    "C:\\Users\\vania\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
